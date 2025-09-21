@@ -34,8 +34,4 @@ To see how well the network was learning, I kept an eye on its loss and accuracy
 To be sure, I tested it on the letter 'B', and it got it right. The plots and the final prediction image show that the training was a success.
 
 
-Run the script: Just run the Python file from your terminal.
 
-python neural_network_classifier.py
-
-You'll see the training progress, the performance graphs, and the final prediction.
