@@ -33,10 +33,6 @@ To see how well the network was learning, I kept an eye on its loss and accuracy
 
 To be sure, I tested it on the letter 'B', and it got it right. The plots and the final prediction image show that the training was a success.
 
-How to Run the Code
-Get the right tools: Make sure you have numpy and matplotlib.
-
-pip install numpy matplotlib
 
 Run the script: Just run the Python file from your terminal.
 
